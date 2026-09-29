@@ -10,6 +10,4 @@
   <img src="https://skillicons.dev/icons?i=html,tailwind,mongodb,postgres,git,github,docker,linux,figma" height="38" />
   
   <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HORRIK&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="90%" />
 </div>
